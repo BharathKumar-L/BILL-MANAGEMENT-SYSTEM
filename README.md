@@ -37,13 +37,11 @@ The Bill Management System is a Java-based application designed to streamline th
 4. Perform billing operations as required.
 
 ## Contributors
-- [Your Name] - Project Lead & Developer
-- [Contributor 1] - UI Design & Testing
-- [Contributor 2] - Database Management
+- Bharath Kumar L - Project Lead & Developer(https://github.com/BharathKumar-L)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-- Special thanks to [Instructor/Advisor Name] for guidance and support.
-- Inspired by the need for efficient billing systems in various industries.
+- Special thanks to Mrs.S.Vinothini for guidance and support.
+- Inspired by the need for efficient billing systems in my own shop
