@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 - Special thanks to Mrs.S.Vinothini for guidance and support.
-- Inspired by the need for efficient billing systems in my own shop
+- Inspired by the need for efficient billing system in my own shop
